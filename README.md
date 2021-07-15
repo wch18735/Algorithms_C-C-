@@ -15,7 +15,7 @@
 - [Programmers](https://programmers.co.kr/)
 - [HackerRank](https://www.hackerrank.com/dashboard)
 
-> RANK IN SOLVED.AC (2021-05-30)
+> RANK IN SOLVED.AC (2021-07-15)
 
-- Gold 2 (1383/1400)
+- Gold 1
 
